@@ -6,7 +6,7 @@
   "author": "Dgvalerio <al.davigvalerio@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "json-server server.json -p 4000 -w"
+    "start": "node index.js"
   },
   "dependencies": {
     "json-server": "^0.16.3"
