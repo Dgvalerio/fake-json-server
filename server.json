@@ -1,9 +1,13 @@
 {
   "cooperativa": [
-    { "id": 1, "nome": "Testation", "email": "user@testation.com", "checkout_token": "123" }
+    { "id": 1, "name": "Testation", "email": "user@testation.com", "user_id": "cekVwZBCS3TzmIFrp1CUc0NUnNj1" }
   ],
-  "empresa": [],
-  "filial": [],
+  "empresa": [
+    { "id": 1, "name": "Testarin", "email": "user@testarin.com", "user_id": "rfhFv9wUjIPYsa8JwsYDtiBxMN02" }
+  ],
+  "filial": [
+    { "id": 1, "name": "Testarin South", "email": "south@testarin.com", "phone": "11111111", "address": "South", "user_id": "bCwXDb9xt1TWlZGQcuLnYRyHU6J2" }
+  ],
   "servico": [],
   "combo": [],
   "produto": [
